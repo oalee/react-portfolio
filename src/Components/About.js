@@ -71,9 +71,9 @@ class About extends Component {
 
             <h2>My Hobbies</h2>
 
-            <p>I play the guitar and watch a lot of movies in my spare time, I love works of Krzysztof Kieślowski, Stanly Kubric, Paul Thomas Anderson, Martin Scorsese, David Lynch and many more. </p>
+            <p>I play the guitar and watch a lot of movies in my spare time, I love works of Krzysztof Kieślowski, Stanley Kubrick, Paul Thomas Anderson, Martin Scorsese, David Lynch and many more. </p>
 
-            <p>Here are some of my recordings, hope you enjoy them.</p>
+            <p>Here are some of my compositions, hope you enjoy them.</p>
 
          <div className="audiocontainer">
             <AudioPlayer
@@ -86,6 +86,9 @@ class About extends Component {
              volume = {0.7}
               onClickNext= { 
                   () => this.nextTrack()
+            }
+            onEnded= {
+               () => this.nextTrack()
             }
 
             />
