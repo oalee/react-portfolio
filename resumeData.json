@@ -63,7 +63,7 @@
       ,
 
       {
-        "company":"Freelancer, Malaysia",
+        "company":"Remote Freelancer, Malaysia",
         "title":"Front-end Android Developer",
         "years":"Oct 2016 - Dec 2016",
         "description":"Smart Pledge System designed and implemented for funding a political party in malaysia. I implemented some basic data flow, authentication, subscribing to a payment plan and actual paying functionality with PayPall or Cards."
@@ -76,7 +76,7 @@
       }
       ,
       {
-        "company":"Freelancer, EU",
+        "company":"Remote Freelancer, EU",
         "title":"Full front-end Android and Android TV Developer",
         "years":"August 2019 - October 2020",
         "description":"Complex Android and Android TV Application with a focus on the code quality and software architecture. Stack used in project:  Kotlin,MVVM,Databiding,RoomDB,WorkManager,Retrofit,Dependency Injection(Dagger) and Kotlin Coroutines. Worked and communicated in English with a European company, due to a strict NDA I'm not allowed to disclose any information on the nature of the app or the company."
@@ -86,7 +86,7 @@
     "skills":[
       {
         "name":"Android Development with Native SDK",
-        "level":"93%"
+        "level":"95%"
       },
       {
         "name":"Kotlin",
@@ -106,19 +106,15 @@
       },
       
       {
-        "name":"Dependency Injection",
-        "level":"90%"
-      },
-      {
         "name":"Git",
         "level":"90%"
       },
       {
-        "name":"Database Design and Implementation (SQL server based)",
+        "name":"Database Design and Implementation (SQL server)",
         "level":"90%"
       },
       {
-        "name":"Database Design and Implementation (noSQL server based)",
+        "name":"Database Design and Implementation (noSQL server)",
         "level":"65%"
       }
       , 
@@ -135,7 +131,10 @@
         "name":"NodeJS",
         "level":"30%"
       },
-      
+      {
+        "name":"iOS Native Development",
+        "level":"30%"
+      },
       {
         "name":"ReactJs",
         "level":"30%"
