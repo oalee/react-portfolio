@@ -46,11 +46,11 @@
         "company":"PulseCo, Freelancer, IR",
         "title":"Full front-end Android Developer",
         "years":"Sep 2014 - March 2015",
-        "description":"The very first application I wrote with Android SDK. Artistic Pantomime Game/Application with cool UX and UI written in Java for android 2.1 to 4.0. The APK still works perfectly in android 10 !!"
+        "description":"The very first application I wrote with Android SDK. Artistic Pantomime Game/Application with cool UX and UI written in Java for android 2.1 to 4.0. The APK still works perfectly in android 10 !"
       },
       {
         "company":"PulseCo, Freelancer, IR",
-        "title":"Full front-end IOS Developer",
+        "title":"IOS Developer",
         "years":"May 2015 - August 2015",
         "description":"I learned native iOS development with Swift by developing an existing android application to iOS. I really liked and appreciated the Apple Architecture Design guidelines (MVC)"
       },
@@ -58,7 +58,7 @@
         "company":"TreeCo, Freelancer, IR",
         "title":"Full front-end Android Developer",
         "years":"Nov 2015 - July 2016",
-        "description":"Android Online and Offline Game/Application written in Java. Features: Notifactions for everything, Restfull and Web Sockets Communication With Server, Registration/Friend Managment/Chat, Encrypted Coin System, Analytics and etc."
+        "description":"Android Online and Offline Game/Application written in Java. Key features: Notifications for everything, Restfull and Web Sockets Communication With Server, Registration/Friend Management/Chat, Encrypted Coin System, Analytics and etc."
       }
       ,
 
@@ -72,7 +72,7 @@
         "company":"Bachelor Project",
         "title":"FullStack Developer",
         "years":"March 2019 - August 2019",
-        "description":"Persian Sign Language Learning Assistant Native Android Application for children with the use of Visual Learning techniques by provding videos and images. New learning modules could be added to the existing app from a node js server"
+        "description":"Persian Sign Language Learning Assistant Native Android Application for children with the use of Visual Learning techniques by providing videos and images. New learning modules could be added to the existing app from a node js server."
       }
       ,
       {
