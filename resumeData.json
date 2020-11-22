@@ -2,7 +2,7 @@
   "main": {
     "name":"Ali Rahimi",
     "occupation":"Software Engineer",
-    "description":"Assign me with some tasks, I'll find the solutions and get it done.\nExperienced in develpement of complex android applications with the old (JAVA) and \"hot\" stacks (Kotlin, JetPack(MVVM,ROOM,DATABINDING,etc), DI(with Dagger) etc.",
+    "description":"Assign me with some tasks, I'll find the solutions and get it done.\nExperienced in develpement of complex android applications with the old (JAVA) and \"hot\" stacks (Kotlin, JetPack (MVVM, ROOM, DATABINDING, etc), DI (with Dagger) etc.",
     "image":"profilepic.jpeg",
     "bio":"Geek, Freelancer, Open Source Advocate, Linux Lover. Lover of Music and Cinema",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -32,10 +32,10 @@
     ]
   },
   "resume":{
-    "skillmessage":"I'm an engineer, I have an overview of many areas such as Software Engineering principals (OOP, user-centeric approach to design apps, Database Desgin, Software Architecture etc) , Algorithms, Network Security (SSL,RSA,AES,etc), Network Layers(IP, TCP/UDP, etc).\n I don't really care about the STACK that much, but it should be at least a modern one, I won't work in ancient languages.",
+    "skillmessage":"I'm an engineer, I have an overview of many areas such as Software Engineering principles (OOP, user-centeric approach to design apps, Database Desgin, Software Architecture etc), Algorithms, Network Security (SSL, RSA, AES, etc), Network Layers (IP, TCP/UDP, etc).\n I don't really care about the STACK that much, but it should be at least a modern one, I won't work with ancient languages.",
     "education":[
       {
-        "school":"Isfahan Univercity of Technology(IUT)",
+        "school":"Isfahan University of Technology (IUT)",
         "degree":"B.Sc. in Software Engineering",
         "graduated":"2013 - 2019",
         "description":"QS WUR By Subject Ranking #301-350 (shanghairanking.com)"
