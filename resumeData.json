@@ -2,7 +2,7 @@
   "main": {
     "name":"Ali Rahimi",
     "occupation":"Software Engineer",
-    "description":"Assign me with some tasks, I'll find the solutions and get it done.\nExperienced in develpement of complex android applications with the old (JAVA) and \"hot\" stacks (Kotlin, JetPack (MVVM, ROOM, DATABINDING, etc), DI (with Dagger) etc.",
+    "description":"Assign me with some tasks, I'll find the solutions and get it done.\nExperienced in develpement of complex android applications with the old (JAVA) and \"hot\" stacks (Kotlin, Jetpack (MVVM, ROOM, DATABINDING, etc), DI (with Dagger) etc.",
     "image":"profilepic.jpeg",
     "bio":"Geek, Freelancer, Open Source Advocate, Linux Lover. Lover of Music and Cinema",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
