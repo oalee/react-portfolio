@@ -35,7 +35,8 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}.</h1>
-            <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
+            <h3>I'm a <span>{occupation}</span>. Assign me with some tasks, I'll find the solutions and get it done.</h3>
+            <h3>Experienced in develpement of complex <a>Android Applications</a> with the <a>Old (JAVA)</a> and<br /><a>Hot</a> stacks such as <a>Kotlin, JetPackComponents (MVVM,ROOM,DATABINDING,etc) Dependency Injection(Dagger), Dataflow(Retrofit/Moshi/Coroutines) etc</a></h3>
             <hr />
             <ul className="social">
                {networks}

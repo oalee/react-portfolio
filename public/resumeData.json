@@ -1,56 +1,33 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
+    "name":"Ali Rahimi",
+    "occupation":"Software Engineer",
+    "description":"Assign me with some tasks, I'll find the solutions and get it done.\nExperienced in develpement of complex android applications with the old (JAVA) and \"hot\" stacks (Kotlin, JetPack(MVVM,ROOM,DATABINDING,etc), DI(with Dagger) etc.",
+    "image":"profilepic.jpeg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "alirahimii@protonmail.com",
+    "phone": "",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"W Allameh Amini",
+      "city":"Esfahan",
+      "state":"",
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://lrhm.github.io/react-portfolio/",
+    "resumedownload":"https://lrhm.github.io/react-portfolio/",
     "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
+     
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/ali-rahimi-50b20999/",
         "className":"fa fa-linkedin"
       },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
+
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/lrhm",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
