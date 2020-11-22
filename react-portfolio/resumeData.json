@@ -4,7 +4,7 @@
     "occupation":"Software Engineer",
     "description":"Assign me with some tasks, I'll find the solutions and get it done.\nExperienced in develpement of complex android applications with the old (JAVA) and \"hot\" stacks (Kotlin, JetPack(MVVM,ROOM,DATABINDING,etc), DI(with Dagger) etc.",
     "image":"profilepic.jpeg",
-    "bio":"Geek, Freelancer, Open Source Advocate, Linux Lover. I'm an introvert, don't expect leadership skills. Lover of Music and Cinema",
+    "bio":"Geek, Freelancer, Open Source Advocate, Linux Lover. I'm an introvert, don't expect great leadership skills. Lover of Music and Cinema",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "alirahimii@protonmail.com",
     "phone": "",
@@ -72,14 +72,14 @@
         "company":"Bachelor Project",
         "title":"FullStack Developer",
         "years":"March 2019 - August 2019",
-        "description":"Persian Sign Language Learning Assistant Application for children with the use of Visual Learning techniques by provding videos and images. New learning modules could be added to the existing app from a node js server"
+        "description":"Persian Sign Language Learning Assistant Native Android Application for children with the use of Visual Learning techniques by provding videos and images. New learning modules could be added to the existing app from a node js server"
       }
       ,
       {
         "company":"Freelancer, EU",
         "title":"Full front-end Android and Android TV Developer",
         "years":"August 2019 - October 2020",
-        "description":"Complex Android and Android TV Application with a focus on the code quality and software architecture. Implemented using latest \"hot\" stacks such as Kotlin,MVVM,Databiding,RoomDB,WorkManager,Retrofit,Dependency Injection(Dagger) and Kotlin Coroutines. Worked and communicated in English with a European company, due to a strict NDA I'm not allowed to disclose any information on the nature of the app or the company."
+        "description":"Complex Android and Android TV Application with a focus on the code quality and software architecture. Stack used in project:  Kotlin,MVVM,Databiding,RoomDB,WorkManager,Retrofit,Dependency Injection(Dagger) and Kotlin Coroutines. Worked and communicated in English with a European company, due to a strict NDA I'm not allowed to disclose any information on the nature of the app or the company."
       }
       
     ],
