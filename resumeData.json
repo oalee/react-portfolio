@@ -5,14 +5,14 @@
     "description":"Assign me with some tasks, I'll find the solutions and get it done.\nExperienced in develpement of complex android applications with the old (JAVA) and \"hot\" stacks (Kotlin, JetPack(MVVM,ROOM,DATABINDING,etc), DI(with Dagger) etc.",
     "image":"profilepic.jpeg",
     "bio":"Geek, Freelancer, Open Source Advocate, Linux Lover. Lover of Music and Cinema",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Disclaimer: This form does not work! Send me ",
     "email": "alirahimii@protonmail.com",
     "phone": "",
     "address":{
       "street":"W Allameh Amini",
       "city":"Esfahan",
       "state":"",
-      "zip": ""
+      "zip": "Iran"
     },
     "website": "https://lrhm.github.io/react-portfolio/",
     "resumedownload":"https://lrhm.github.io/react-portfolio/",
@@ -32,7 +32,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"I'm an engineer, I have an overview of many areas such as Software Engineering principals (OOP, user-centeric approach to design apps, Database Desgin, Software Architecture etc) , Algorithms, Network Security (SSL,RSA,AES,etc), Network Layers(IP, TCP/UDP, etc).\n I don't really care about the STACK that much, but it should be at least a modern one, I won't work in ancient languages.",
+    "skillmessage":"I'm an engineer, I have an overview of many areas such as Software Engineering principals (OOP, user-centeric approach to design apps, Database Desgin, Software Architecture etc) , Algorithms, Network Security (SSL,RSA,AES,etc), Network Layers(IP, TCP/UDP, etc).\nAlways striving to use the right technology \"Stacks\" best fitted for the requirements of the project.",
     "education":[
       {
         "school":"Isfahan Univercity of Technology(IUT)",
@@ -79,7 +79,7 @@
         "company":"Remote Freelancer, EU",
         "title":"Full front-end Android and Android TV Developer",
         "years":"August 2019 - October 2020",
-        "description":"Complex Android and Android TV Application with a focus on the code quality and software architecture. Stack used in project:  Kotlin,MVVM,Databiding,RoomDB,WorkManager,Retrofit,Dependency Injection(Dagger) and Kotlin Coroutines. Worked and communicated in English with a European company, due to a strict NDA I'm not allowed to disclose any information on the nature of the app or the company."
+        "description":"Complex Android and Android TV Application with a focus on the code quality and software architecture. Stack: Kotlin,MVVM,Databiding,RoomDB,WorkManager,Retrofit,Dependency Injection(Dagger) and Kotlin Coroutines. Worked and communicated in English with a European company, due to a strict NDA I'm not allowed to disclose any information on the nature of the app or the company."
       }
       
     ],
@@ -94,7 +94,7 @@
       },
       {
         "name":"Java",
-        "level":"90%"
+        "level":"95%"
       },
       {
         "name":"Android Jetpack Components",
@@ -133,7 +133,7 @@
       },
       {
         "name":"iOS Native Development",
-        "level":"30%"
+        "level":"50%"
       },
       {
         "name":"ReactJs",
@@ -149,7 +149,7 @@
       }
       ,{
         "name":"MS Office",
-        "level":"95%"
+        "level":"65%"
       }
       ,{
         "name":"Latex",
