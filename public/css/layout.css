@@ -422,9 +422,18 @@ ul#nav li.current a { color: #F06000; }
 
 #portfolio {
    background: #ebeeee;
-   padding-top: 90px;
-   padding-bottom: 60px;
+   padding: 40px;
 }
+
+.slick-slide img {
+   white-space: nowrap;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 40%;
+ }
+ 
+
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
