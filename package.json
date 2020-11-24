@@ -10,8 +10,7 @@
     "react-ga": "^2.7.0",
     "react-h5-audio-player": "^3.4.1",
     "react-scripts": "1.0.17",
-    "react-slick": "^0.27.13",
-    "react-soundplayer": "^1.0.5"
+    "react-slick": "^0.27.13"
   },
   "scripts": {
     "start": "react-scripts start",

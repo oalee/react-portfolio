@@ -33,6 +33,15 @@ class Portfolio extends Component {
       })
     }
 
+    var settings = {
+      dots: true,
+      infinite: true,
+      speed: 500,
+      slidesToShow: 2,
+      slidesToScroll: 2,
+      autoplay: true
+    };
+
     return (
       <section id="portfolio">
 
@@ -42,9 +51,36 @@ class Portfolio extends Component {
 
             <h1>Check Out Some of My Works.</h1>
 
-            <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-                {projects}
-            </div>
+        <div className="screenshotsContainer">
+        <style jsx>{`
+        .screenshotsContainer {
+          margin: 50px;
+        }
+        li {
+          display: inline-block;
+        }
+        img{
+          margin: auto;
+
+        }
+      `}</style>
+        <Slider {...settings}>
+          <div>
+            <img src="images/screenshots/screenshot1.jpeg"
+           />
+          </div>
+          <div>
+            <img src="http://placekitten.com/g/400/200" />
+          </div>
+          <div>
+            <img src="http://placekitten.com/g/400/200" />
+          </div>
+          <div>
+            <img src="http://placekitten.com/g/400/200" />
+          </div>
+        </Slider>
+
+          </div>
           </div>
       </div>
    </section>
