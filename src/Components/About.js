@@ -77,7 +77,8 @@ class About extends Component {
 
          <div className="audiocontainer">
             <AudioPlayer
-             autoPlay
+             autoPlay={false}
+            
              src= {audioSrc}
              onPlay={e => console.log("onPlay")}
             

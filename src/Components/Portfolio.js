@@ -4,7 +4,6 @@ import Slider from "react-slick";
 
 
 
-var baseImgName = 'signal-2020-11-24-202038_001.jpeg'
 
 var imageList = new Array()
 
@@ -12,11 +11,29 @@ for (var i =1; i<10; i++){
   imageList.push(`images/screenshots/signal-2020-11-24-202038_00${i}.jpeg`)
 }
 
+for (var i =0; i<6; i++){
+  imageList.push(`images/screenshots/${i}.jpg`)
+}
+
 for (var i =10; i<13; i++){
   imageList.push(`images/screenshots/signal-2020-11-24-202038_0${i}.jpeg`)
 }
 
-console.log(imageList)
+for (var i =1; i<5; i++){
+  imageList.push(`images/screenshots/signal-2020-11-24-224048_00${i}.jpeg`)
+}
+/* Randomize array in-place using Durstenfeld shuffle algorithm */
+function shuffleArray(array) {
+  for (var i = array.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var temp = array[i];
+      array[i] = array[j];
+      array[j] = temp;
+  }
+}
+
+shuffleArray(imageList)
+
 var images = imageList.map( function(item) {
 
   return <div> 
@@ -25,7 +42,6 @@ var images = imageList.map( function(item) {
   </div>
   
 } )
-
 class Portfolio extends Component {
   render() {
 
@@ -34,7 +50,7 @@ class Portfolio extends Component {
       infinite: true,
       speed: 500,
       slidesToShow: 3,
-      slidesToScroll: 1,
+      slidesToScroll: 2,
       autoplay: true
     
     };
@@ -53,9 +69,7 @@ class Portfolio extends Component {
         .screenshotsContainer {
      
         }
-        li {
-          display: inline-block;
-        }
+      
         .slick-slide img{
           border-radius: 8px;
           display: block;
