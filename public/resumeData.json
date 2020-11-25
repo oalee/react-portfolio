@@ -2,10 +2,10 @@
   "main": {
     "name":"Ali Rahimi",
     "occupation":"Software Engineer",
-    "description":"Assign me with some tasks, I'll find the solutions and get it done.\nExperienced in develpement of complex android applications with the old (JAVA) and \"hot\" stacks (Kotlin, JetPack(MVVM,ROOM,DATABINDING,etc), DI(with Dagger) etc.",
+    "description":"Assign me with some tasks, I'll find the solutions and get it done.\nExperienced in develpement of complex android applications with the \"old\" and \"hot\" stacks (Java, Kotlin, JetPack(MVVM/ROOM/ViewModel/Fragments/Activity/etc), DI(Dagger/Hilt) etc.",
     "image":"profilepic.jpeg",
     "bio":"Geek, Freelancer, Open Source Advocate, Linux Lover. Lover of Music and Cinema",
-    "contactmessage":"Disclaimer: This form does not work! Send me ",
+    "contactmessage":"Disclaimer: This form does not work! Send me a Email instead. ",
     "email": "alirahimii@protonmail.com",
     "phone": "",
     "address":{

@@ -10,7 +10,7 @@ class Resume extends Component {
         <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
         <p>{education.description}</p>
         <p>Course Work: Advanced Mathematics and Physics, Data Structure, OS Architecture, Theory of Formal Languages(Compilers, Automata), Databases, Computer Networks, Software Engineering, IT Engineering, Statistics, AI, Computer Graphics, Economics, Microprocessors and etc.</p>
-        <p>The reason that it took a long time for me to graduate is because I was working as a freelancer alongside my studies, and I don't want to participate in the Two years of Iranian Mandatory Military Service, so I took my time.</p>
+        <p>The reason that it took a long time for me to graduate is because I was working as a freelancer alongside my studies, and I don't want to participate in the Iranian Mandatory Military Service, so I took my time.</p>
 
         </div>
       })
