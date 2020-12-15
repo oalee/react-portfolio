@@ -2,7 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lrhm.xyz/",
+  "homepage": "http://lrhm.github.io/react-portfolio",
   "dependencies": {
     "jquery": "^3.5.1",
     "react": "^16.2.0",

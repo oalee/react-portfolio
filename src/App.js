@@ -46,11 +46,11 @@ class App extends Component {
   }
 
   componentDidMount() {
-    this.getResumeData();
+    // this.getResumeData();
 
     console.log("testing");
     console.log(window.location);
-    if (window.location.hostname !== "lrhm")
+    if (window.location.hostname !== "lrhm.xyz")
       window.location.replace("https://lrhm.xyz");
   }
 
