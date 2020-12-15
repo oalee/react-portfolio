@@ -14,7 +14,7 @@ import data from "./ResumeData";
 class App extends Component {
   constructor(props) {
     super(props);
-    console.log(data);
+    // console.log(data);
     this.state = {
       foo: "bar",
       resumeData: data,
@@ -47,6 +47,11 @@ class App extends Component {
 
   componentDidMount() {
     this.getResumeData();
+
+    console.log("testing");
+    console.log(window.location);
+    if (window.location.hostname !== "lrhm")
+      window.location.replace("https://lrhm.xyz");
   }
 
   render() {
