@@ -2,13 +2,14 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lrhm.github.io/react-portfolio",
+  "homepage": "http://lrhm.xyz",
   "dependencies": {
     "jquery": "^3.5.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-ga": "^2.7.0",
     "react-h5-audio-player": "^3.4.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "1.0.17",
     "react-slick": "^0.27.13"
   },
